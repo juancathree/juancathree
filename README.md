@@ -1,4 +1,4 @@
-# Hi, I'm Juan Carlos Lucena Monje 👋
+# Hi, I'm Juan Carlos 👋
 
 Student of Computer Science
 
