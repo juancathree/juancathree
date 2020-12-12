@@ -1,4 +1,28 @@
-### Hi there 👋
+# Hi, I'm Juan Carlos Lucena Monje 👋
+
+Student of Computer Science
+
+## More about me
+
+```javascript
+const juancathree = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Typescript", "Go"],
+    technologies: {
+        mobileApp: ["React Native"],
+        frontEnd: {
+            js: ["React"],
+            css: []
+        },
+        backEnd: {
+            js: ["node", "express"]
+        },
+        devOps: ["AWS", "Docker", "Kubernetes", "Nginx"],
+        databases: ["mongo", "MySql", "PostgreSQL"],
+    },
+    architecture: ["Serverless Architecture", "Single page applications"],
+};
+```
 
 <!--
 **juancathree/juancathree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
