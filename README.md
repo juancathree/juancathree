@@ -20,7 +20,7 @@ const juancathree = {
         devOps: ["AWS", "Docker", "Kubernetes", "Nginx"],
         databases: ["mongo", "MySql", "PostgreSQL"],
     },
-    architecture: ["Serverless Architecture", "Single page applications"],
+    architecture: ["Serverless Architecture", "Single page applications"]
 };
 ```
 
