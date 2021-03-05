@@ -9,16 +9,16 @@ const juancathree = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Typescript", "Go"],
     technologies: {
-        mobileApp: ["React Native"],
+        mobileApp: ["PWA"],
         frontEnd: {
             js: ["React"],
             css: []
         },
         backEnd: {
-            js: ["node", "express"]
+            go: []
         },
-        devOps: ["AWS", "Docker", "Kubernetes", "Nginx"],
-        databases: ["mongo", "MySql", "PostgreSQL"],
+        devOps: ["AWS", "Docker", "Kubernetes"],
+        databases: ["MongoDB", "MySql", "PostgreSQL"],
     },
     architecture: ["Serverless Architecture", "Single page applications"]
 };
