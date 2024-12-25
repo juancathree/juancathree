@@ -1,8 +1,8 @@
 # Hi there!
 
-I'm Juan Carlos, a Full-Stack developer.
+I'm **Juan Carlos**, a passionate **Full-Stack Developer** with expertise in designing and building high-performance, scalable web and mobile applications.
 
-#### Technologies
+#### Technologies I work with
 `React` `React Native` `Go` `TS` `NodeJS` `Expo` `MongoDB` `SQL` `GitHub Actions` `CI/CD` `Tests`
 <!--
 **juancathree/juancathree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
